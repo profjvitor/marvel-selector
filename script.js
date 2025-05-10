@@ -1,6 +1,6 @@
 const movies = [
   { title: "X-Men", year: 2000, franchise: "X-Men", poster: "https://br.web.img3.acsta.net/medias/nmedia/18/91/08/56/20128632.jpg" },
-  { title: "X-Men 2", year: 2003, franchise: "X-Men 2", poster: "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/86/70/19962352.jpg" },
+  { title: "X-Men 2", year: 2003, franchise: "X-Men", poster: "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/86/70/19962352.jpg" },
   { title: "Blade II", year: 2002, franchise: "Blade", poster: "https://image.tmdb.org/t/p/w500/wDd6Kc2Xy8cUepLZpACz5VdUrsE.jpg" },
   { title: "Blade Trinity", year: 2004, franchise: "Blade", poster: "https://image.tmdb.org/t/p/w500/9t2Om3V18xcxtOCz3R5GzA3PrU1.jpg" },
   { title: "Demolidor", year: 2003, franchise: "Demolidor", poster: "https://image.tmdb.org/t/p/w500/8TRP7VME2NzkY9h8J5yn9aK3aYB.jpg" },
