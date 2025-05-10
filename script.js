@@ -1,6 +1,6 @@
 const movies = [
-  { title: "X-Men", year: 2000, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-1000-0-1500-crop.jpg?v=58f85fcb62" },
-  { title: "X-Men 2", year: 2003, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/lt/cd/xz/vb/xmen2-poster-0-1000-0-1500-crop.jpg?v=141895ae80" },
+  { title: "X-Men", year: 2000, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-1000-0-1500-crop.jpg" },
+  { title: "X-Men 2", year: 2003, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/lt/cd/xz/vb/xmen2-poster-0-1000-0-1500-crop.jpg" },
   { title: "Blade II", year: 2002, franchise: "Blade", poster: "https://image.tmdb.org/t/p/w500/wDd6Kc2Xy8cUepLZpACz5VdUrsE.jpg" },
   { title: "Blade Trinity", year: 2004, franchise: "Blade", poster: "https://image.tmdb.org/t/p/w500/9t2Om3V18xcxtOCz3R5GzA3PrU1.jpg" },
   { title: "Demolidor", year: 2003, franchise: "Demolidor", poster: "https://image.tmdb.org/t/p/w500/8TRP7VME2NzkY9h8J5yn9aK3aYB.jpg" },
