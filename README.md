@@ -1,1 +1,2 @@
 # marvel-selector
+Selecionador de Filmes da Marvel é uma aplicação web simples feita com HTML, CSS e JavaScript puro. Ela permite ao usuário explorar uma seleção de 10 filmes clássicos da Marvel — incluindo títulos dos X-Men, Blade, Demolidor, Quarteto Fantástico e Homem-Aranha — por meio de um filtro interativo por franquia. O layout é responsivo e apresenta os filmes em cartões com imagem, título e ano de lançamento. É ideal para estudos, portfólios ou projetos pessoais que queiram explorar a organização e exibição de dados visuais sem frameworks.
