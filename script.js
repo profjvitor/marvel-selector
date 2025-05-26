@@ -1,11 +1,11 @@
 const movies = [
   { title: "X-Men", year: 2000, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-1000-0-1500-crop.jpg" },
   { title: "X-Men 2", year: 2003, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/lt/cd/xz/vb/xmen2-poster-0-1000-0-1500-crop.jpg" },
-  { title: "Blade II", year: 2002, franchise: "Blade", poster: "https://image.tmdb.org/t/p/w500/wDd6Kc2Xy8cUepLZpACz5VdUrsE.jpg" },
-  { title: "Blade Trinity", year: 2004, franchise: "Blade", poster: "https://image.tmdb.org/t/p/w500/9t2Om3V18xcxtOCz3R5GzA3PrU1.jpg" },
-  { title: "Demolidor", year: 2003, franchise: "Demolidor", poster: "https://image.tmdb.org/t/p/w500/8TRP7VME2NzkY9h8J5yn9aK3aYB.jpg" },
-  { title: "Quarteto Fantástico", year: 2005, franchise: "Quarteto Fantástico", poster: "https://image.tmdb.org/t/p/w500/6r2zwGDbElh4JXm8OSYxrHkKjA1.jpg" },
-  { title: "Quarteto Fantástico e o Surfista Prateado", year: 2007, franchise: "Quarteto Fantástico", poster: "https://image.tmdb.org/t/p/w500/tQfC9nhSx0X0ZcQYxM7Jqyw6vMz.jpg" },
+  { title: "Blade II", year: 2002, franchise: "Blade", poster: "https://a.ltrbxd.com/resized/film-poster/2/7/7/8/1/27781-blade-ii-0-1000-0-1500-crop.jpg" },
+  { title: "Blade Trinity", year: 2004, franchise: "Blade", poster: "https://a.ltrbxd.com/resized/sm/upload/3b/ss/rr/8x/4WinsdHQBdh5aTt7Bd7T7dbUXbb-0-1000-0-1500-crop.jpg" },
+  { title: "Demolidor", year: 2003, franchise: "Demolidor", poster: "https://a.ltrbxd.com/resized/sm/upload/rn/s7/bx/s3/dNVEqwgIdrwWQL3zXI5mQG60oM5-0-1000-0-1500-crop.jpg" },
+  { title: "Quarteto Fantástico", year: 2005, franchise: "Quarteto Fantástico", poster: "https://a.ltrbxd.com/resized/film-poster/4/6/8/6/9/46869-fantastic-four-0-1000-0-1500-crop.jpg" },
+  { title: "Quarteto Fantástico e o Surfista Prateado", year: 2007, franchise: "Quarteto Fantástico", poster: "https://a.ltrbxd.com/resized/film-poster/5/0/6/3/1/50631-fantastic-four-rise-of-the-silver-surfer-0-1000-0-1500-crop.jpg" },
   { title: "Homem-Aranha", year: 2002, franchise: "Homem-Aranha (Raimi)", poster: "https://image.tmdb.org/t/p/w500/rweIrveL43TaxUN0akQEaAXL6x0.jpg" },
   { title: "Homem-Aranha 2", year: 2004, franchise: "Homem-Aranha (Raimi)", poster: "https://image.tmdb.org/t/p/w500/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg" },
   { title: "Homem-Aranha 3", year: 2007, franchise: "Homem-Aranha (Raimi)", poster: "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" }
