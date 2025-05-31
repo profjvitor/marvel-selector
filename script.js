@@ -1,6 +1,9 @@
 const movies = [
   { title: "X-Men", year: 2000, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-1000-0-1500-crop.jpg" },
   { title: "X-Men 2", year: 2003, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/sm/upload/lt/cd/xz/vb/xmen2-poster-0-1000-0-1500-crop.jpg" },
+  { title: "X-Men: The Last Stand", year: 2006, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/film-poster/2/7/7/1/3/27713-x-men-the-last-stand-0-1000-0-1500-crop.jpg" },
+  { title: "X-Men: First Class", year: 2011, franchise: "X-Men", poster: "https://a.ltrbxd.com/resized/film-poster/1/6/0/7/4/16074-x-men-first-class-0-1000-0-1500-crop.jpg" },
+  { title: "Blade", year: 1998, franchise: "Blade", poster: "https://a.ltrbxd.com/resized/film-poster/2/7/7/3/0/27730-blade-0-1000-0-1500-crop.jpg" },
   { title: "Blade II", year: 2002, franchise: "Blade", poster: "https://a.ltrbxd.com/resized/film-poster/2/7/7/8/1/27781-blade-ii-0-1000-0-1500-crop.jpg" },
   { title: "Blade Trinity", year: 2004, franchise: "Blade", poster: "https://a.ltrbxd.com/resized/sm/upload/3b/ss/rr/8x/4WinsdHQBdh5aTt7Bd7T7dbUXbb-0-1000-0-1500-crop.jpg" },
   { title: "Demolidor", year: 2003, franchise: "Demolidor", poster: "https://a.ltrbxd.com/resized/sm/upload/rn/s7/bx/s3/dNVEqwgIdrwWQL3zXI5mQG60oM5-0-1000-0-1500-crop.jpg" },
